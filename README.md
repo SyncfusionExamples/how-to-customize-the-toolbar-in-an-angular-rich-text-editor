@@ -1,6 +1,6 @@
 # How to Customize the Toolbar in an Angular Rich Text Editor Component
 
-A quick start Angular project that shows how to customize a toolbar in the Syncfusion Angular Rich Text Editor. This project also includes a code snippet to add a quick inline toolbar to the Rich Text Editor component and different types of toolbars.
+A quick start Angular project that shows how to customize a toolbar in the [Syncfusion Angular Rich Text Editor](https://www.syncfusion.com/angular-components/angular-rich-text-editor). This project also includes a code snippet to add a quick inline toolbar to the Rich Text Editor component and different types of toolbars.
 
 Examples: https://ej2.syncfusion.com/angular/demos/#/material/rich-text-editor/types 
  
